@@ -1,0 +1,9 @@
+.mb-2{
+    width: 3000px;
+}
+h2{
+    font-family: monospace, 'Gill Sans';
+}
+.difcolor{
+    background-color: aqua !important;
+}
